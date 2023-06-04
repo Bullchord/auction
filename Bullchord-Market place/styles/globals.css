@@ -1,0 +1,14 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face{
+        font-family:"Neue Machina";
+        src:url("/fonts/Neue-Machina.woff2") format("woff2");
+        font-weight:600;
+        font-display:swap;
+        font-style: normal;
+    }
+}

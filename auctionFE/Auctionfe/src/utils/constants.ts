@@ -1,0 +1,2 @@
+export const TOKEN_ROOT_ADDRESS = '0:91470b9a77ada682c9f9aee5ae0a4e2ea549ee51f7b0f2cba5182ffec2eb233f';
+export const AUCTION_ADDRESS = '0:23a5ad6a5d66687cbb55197ef4d2f58080db57cd039ed4a988da92dbd381dd55';
